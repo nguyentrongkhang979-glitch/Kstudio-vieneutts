@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+soundfile
+numpy
+onnxruntime
+git+https://github.com/pnnbao97/VieNeu-TTS.git
+python-multipart
